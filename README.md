@@ -60,7 +60,7 @@ Dự án này có thể được mở rộng với các tính năng khác như:
 ## Liên hệ
 
 - GitHub: [linh0526](https://github.com/linh0526)
-- Email: linhsubin007@example.com
+- Email: linhsubin007@gmail.com
 
 
 
