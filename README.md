@@ -29,7 +29,9 @@ HelloClock là một ứng dụng đồng hồ trực tuyến hiển thị thờ
     cd HelloClock
     ```
 
-3. Mở **index.html** trong trình duyệt của bạn để xem kết quả.
+3. Mở **index.html** hoặc trình duyệt của bạn để xem kết quả.
+   ![image](https://github.com/user-attachments/assets/2fa84193-d888-42e6-a120-3a3a4c974c58)
+
 
 ### Triển khai lên GitHub Pages
 
